@@ -1,0 +1,16 @@
+UVIC_LOGIN:
+  USERNAME: uvicID 
+  PASSWORD: uvicPASS 
+SEMESTER:
+  FIRST: "First Term: Sep - Dec 2014"
+  SUMMER: "Summer Session: May - Aug 2014"
+  SECOND: "Second Term:  Jan - Apr 2015"
+DESIRED_SEMESTER:
+  SECOND
+GMAIL:
+  ADDRESS: g.mail@gmail.com
+  PASSWORD: gmailpass 
+CRN:
+  - 10217
+  - 20375
+  - 20637
