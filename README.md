@@ -32,6 +32,8 @@ CRN:
   - 101010
 ```
 
+You need to allow less secure app access for your gmail account. [Less secure app access](https://support.google.com/accounts/answer/6010255) 
+
 Then test run:
 ```
 python RegisterMe.py --test
